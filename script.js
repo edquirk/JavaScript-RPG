@@ -252,6 +252,7 @@ function winGame() {
   update(locations[6]);
 }
 
+// restart section
 function restart() {
   xp = 0;
   health = 100;
